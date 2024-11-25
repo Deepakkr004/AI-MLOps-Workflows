@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731654656622
+current_stage: None
+description: null
+last_updated_timestamp: 1731654656622
+name: Iris_RandomForest_Classifier
+run_id: 088223cf1e254dab92e7c2930fe95195
+run_link: null
+source: file:///E:/AU/5th%20SEM/MLOps/mlflow/mlruns/515573461599374310/088223cf1e254dab92e7c2930fe95195/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///E:/AU/5th%20SEM/MLOps/mlflow/mlruns/515573461599374310/088223cf1e254dab92e7c2930fe95195/artifacts/model
+user_id: null
+version: 1
