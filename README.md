@@ -1,7 +1,7 @@
 # AI-MLOps-Workflows
 A comprehensive repository of MLOps experiments, featuring Docker, Kubernetes, MLFlow, Prometheus, Vertex AI, EDA, and sentiment analysis workflows.
 <br> 
-MLOps-Lab is a comprehensive repository showcasing end-to-end implementations of Machine Learning Operations (MLOps) practices. This repository covers the integration of tools and frameworks essential for building, deploying, and monitoring machine learning workflows effectively.
+AI-MLOps-Workflows is a comprehensive repository showcasing end-to-end implementations of Machine Learning Operations (MLOps) practices. This repository covers the integration of tools and frameworks essential for building, deploying, and monitoring machine learning workflows effectively.
 <br>
 Included Topics:<br>
 Docker: Containerization of machine learning models and applications.<br>
